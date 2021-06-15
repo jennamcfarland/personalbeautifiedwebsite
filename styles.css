@@ -1,0 +1,146 @@
+div {
+  background-color: #f8ede3;
+  padding: 20px;
+
+}
+
+h1 {
+  margin: 25px auto 0 auto;
+  width: 40%;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #798777;
+  line-height: 2;
+
+
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #798777;
+  font-weight: normal;
+  line-height: 2;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #a2b29f
+}
+
+
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border: dotted #798777 6px;
+  border-bottom: None;
+  width: 4%;
+  margin: 100px, auto;
+
+}
+
+.top-container {
+  background-color: #f8ede3;
+  padding-top: 150px;
+  position: relative
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #bdd2b6;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 200px;
+}
+
+.footer-link {
+  color: #40514E;
+  font-family: Montserrat;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #a9a9a9;
+}
+
+.btn {
+  color: #a2b29f
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.icon {
+  width: 5%;
+  float: left;
+  margin-right: 30px
+}
+
+
+.button {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F8EDE3;
+   font-family: Montserrat;
+   font-size: 19px;
+   font-weight: 100;
+   padding: 22px;
+   background-color: #798777;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+}
+
+.button:hover {
+   background: #A2B29A;
+   border: solid #A2B29F 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright {
+  color: #40514E;
+  font-size: 0.7px;
+  padding: 20px 0;
+}
